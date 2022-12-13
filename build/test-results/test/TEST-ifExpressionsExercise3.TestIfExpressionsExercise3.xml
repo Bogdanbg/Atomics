@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ifExpressionsExercise3.TestIfExpressionsExercise3" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-11T20:57:17" hostname="LERA" time="0.009">
-  <properties/>
-  <testcase name="testMax1" classname="ifExpressionsExercise3.TestIfExpressionsExercise3" time="0.004"/>
-  <testcase name="testMax2" classname="ifExpressionsExercise3.TestIfExpressionsExercise3" time="0.003"/>
-  <testcase name="testMax3" classname="ifExpressionsExercise3.TestIfExpressionsExercise3" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

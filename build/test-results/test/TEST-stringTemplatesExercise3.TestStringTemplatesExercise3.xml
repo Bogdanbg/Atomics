@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stringTemplatesExercise3.TestStringTemplatesExercise3" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-12-13T10:45:41" hostname="DESKTOP-G5TPAS8" time="0.391">
+  <properties/>
+  <testcase name="testShow" classname="stringTemplatesExercise3.TestStringTemplatesExercise3" time="0.391"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
