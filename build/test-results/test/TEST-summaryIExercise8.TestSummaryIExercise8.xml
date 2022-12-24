@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="summaryIExercise8.TestSummaryIExercise8" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-12-24T14:51:48" hostname="DESKTOP-G5TPAS8" time="0.005">
+  <properties/>
+  <testcase name="testReverse1" classname="summaryIExercise8.TestSummaryIExercise8" time="0.003"/>
+  <testcase name="testReverse2" classname="summaryIExercise8.TestSummaryIExercise8" time="0.001"/>
+  <testcase name="testReverse3" classname="summaryIExercise8.TestSummaryIExercise8" time="0.0"/>
+  <testcase name="testReverse4" classname="summaryIExercise8.TestSummaryIExercise8" time="0.001"/>
+  <testcase name="testReverse5" classname="summaryIExercise8.TestSummaryIExercise8" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

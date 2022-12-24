@@ -2,7 +2,10 @@
 package summaryIExercise9
 
 fun printTriangle(n: Int) {
-  TODO()
+  var i = 0
+  while (i < n){
+    println()
+  }
 }
 
 fun main() {

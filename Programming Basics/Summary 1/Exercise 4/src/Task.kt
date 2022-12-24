@@ -2,15 +2,15 @@
 package summaryIExercise4
 
 fun testLong() {
-  TODO()
+  print(Long.MAX_VALUE+1)
 }
 
 fun testDouble() {
-  TODO()
+  print(Double.MAX_VALUE+1)
 }
 
 fun testDouble2() {
-  TODO()
+  println(Double.MAX_VALUE == Double.MAX_VALUE+1)
 }
 
 fun main() {

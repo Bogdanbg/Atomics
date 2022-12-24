@@ -1,11 +1,14 @@
 // Summary1/Task3.kt
 package summaryIExercise3
 
+import booleansExercise3.and
+import booleansExercise3.or
+
 fun first(a: Boolean, b: Boolean, c: Boolean): Boolean =
-  if (a) TODO() else TODO()
+  if (a) and(b,c) else false
 
 fun second(a: Boolean, b: Boolean, c: Boolean): Boolean =
-  if (a) TODO() else TODO()
+  if (a) true else or(b,c)
 
 fun main() {
   println(first(true, true, true))

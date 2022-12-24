@@ -2,8 +2,16 @@
 package summaryIExercise2
 
 fun other(s: String): String {
-  TODO()
+  var str = ""
+  for (i in 0 .. s.lastIndex){
+    if (i % 2 == 0)
+      str += s[i]
+  }
+  return str
 }
+
+
+
 
 fun main() {
   println(other("cement"))

@@ -1,8 +1,16 @@
 // Summary1/Task6.kt
 package summaryIExercise6
 
+import sequencesExercise6.from
+
 fun everyFifthNonSpace(s: String) {
-  TODO()
+  var i = 1
+  for (c in s){
+    if (i % 5 == 0 && c != ' ') println(c)
+
+    if (c != ' ')i++
+  }
+
 }
 
 fun main() {
