@@ -2,8 +2,13 @@
 package summaryIExercise9
 
 fun printTriangle(n: Int) {
-  var i = 0
-  while (i < n){
+ for (i in 1..n){
+    repeat(n - i){
+      print(' ')
+    }
+    repeat(2 * i - 1){
+      print('#')
+    }
     println()
   }
 }
