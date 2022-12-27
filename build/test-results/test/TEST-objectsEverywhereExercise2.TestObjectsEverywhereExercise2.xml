@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="objectsEverywhereExercise2.TestObjectsEverywhereExercise2" tests="8" skipped="0" failures="0" errors="0" timestamp="2022-12-27T17:41:38" hostname="AndroidStudioVm" time="0.047">
+  <properties/>
+  <testcase name="testPalindrome1" classname="objectsEverywhereExercise2.TestObjectsEverywhereExercise2" time="0.028"/>
+  <testcase name="testPalindrome2" classname="objectsEverywhereExercise2.TestObjectsEverywhereExercise2" time="0.002"/>
+  <testcase name="testPalindrome3" classname="objectsEverywhereExercise2.TestObjectsEverywhereExercise2" time="0.004"/>
+  <testcase name="testPalindrome4" classname="objectsEverywhereExercise2.TestObjectsEverywhereExercise2" time="0.004"/>
+  <testcase name="testPalindrome5" classname="objectsEverywhereExercise2.TestObjectsEverywhereExercise2" time="0.001"/>
+  <testcase name="testPalindrome6" classname="objectsEverywhereExercise2.TestObjectsEverywhereExercise2" time="0.001"/>
+  <testcase name="testPalindrome7" classname="objectsEverywhereExercise2.TestObjectsEverywhereExercise2" time="0.003"/>
+  <testcase name="testPalindrome8" classname="objectsEverywhereExercise2.TestObjectsEverywhereExercise2" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

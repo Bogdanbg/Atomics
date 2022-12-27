@@ -2,9 +2,9 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="1.8">
-      <module name="AtomicKotlinCourse.util" target="17" />
-      <module name="AtomicKotlinCourse.util.main" target="17" />
-      <module name="AtomicKotlinCourse.util.test" target="17" />
+      <module name="AtomicKotlinCourse.util" target="18" />
+      <module name="AtomicKotlinCourse.util.main" target="18" />
+      <module name="AtomicKotlinCourse.util.test" target="18" />
     </bytecodeTargetLevel>
   </component>
 </project>
